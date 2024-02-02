@@ -1,0 +1,8 @@
+.todolist-container {
+  height: 700px;
+  box-sizing: border-box;
+  padding: 30px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

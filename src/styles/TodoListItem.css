@@ -1,0 +1,29 @@
+input,
+progress {
+  accent-color: #f3d7ca;
+}
+
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-sizing: border-box;
+  margin: 10px 0;
+}
+
+.todo {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.todo-box {
+  width: 25px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.todo-text {
+  font-size: 23px;
+  color: #776b5d;
+  font-weight: 500;
+}

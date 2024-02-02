@@ -1,0 +1,34 @@
+.footer {
+  width: 100%;
+  height: 90px;
+  background-color: #f3d7ca;
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+  padding: 0 25px;
+  align-items: center;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border-top: #f5eee6 3px solid;
+}
+
+.add-box {
+  width: 450px;
+  height: 50px;
+  border-radius: 10px;
+  border: none;
+  padding: 0 20px; /* 좌우에 패딩 추가 */
+  box-sizing: border-box;
+  font-size: 20px;
+  outline: none;
+}
+.add-btn {
+  width: 80px;
+  height: 50px;
+  border-radius: 10px;
+  border: none;
+  font-size: 20px;
+  background-color: #fff8e3;
+  color: #a87c7c;
+  font-weight: 700;
+}
